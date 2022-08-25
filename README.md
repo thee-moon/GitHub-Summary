@@ -1,6 +1,9 @@
 # This App gives the summary of user and his Repostories
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Demo
+
+![image](https://user-images.githubusercontent.com/57327469/186597158-90c0dfd9-7d77-4301-8d16-0512e8f69f5f.png)
+
 
 ## Local Setup
 
